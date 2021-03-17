@@ -20,7 +20,7 @@ public class ApiService {
     public String hello() {
 
         logger.error("index start");
-        return "param01_" + param01;
+        return "param01_gery_" + param01;
     }
 
 
